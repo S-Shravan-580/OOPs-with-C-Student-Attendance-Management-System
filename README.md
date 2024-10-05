@@ -1,4 +1,4 @@
-# OOPs-with-C-Student-Attendance-Management-System
+# OOPs-with-C++-Student-Attendance-Management-System
 Object Oriented Programming with C++ Mini Project
 Title: Student Attendance Management System
 
